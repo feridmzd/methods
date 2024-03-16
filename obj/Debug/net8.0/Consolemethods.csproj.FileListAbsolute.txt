@@ -1,0 +1,14 @@
+C:\Users\subhi\source\repos\Consolemethods\bin\Debug\net8.0\Consolemethods.exe
+C:\Users\subhi\source\repos\Consolemethods\bin\Debug\net8.0\Consolemethods.deps.json
+C:\Users\subhi\source\repos\Consolemethods\bin\Debug\net8.0\Consolemethods.runtimeconfig.json
+C:\Users\subhi\source\repos\Consolemethods\bin\Debug\net8.0\Consolemethods.dll
+C:\Users\subhi\source\repos\Consolemethods\bin\Debug\net8.0\Consolemethods.pdb
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.AssemblyInfoInputs.cache
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.AssemblyInfo.cs
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.csproj.CoreCompileInputs.cache
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.dll
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\refint\Consolemethods.dll
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.pdb
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.genruntimeconfig.cache
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\ref\Consolemethods.dll

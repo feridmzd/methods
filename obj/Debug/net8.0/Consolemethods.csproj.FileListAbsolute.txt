@@ -12,3 +12,4 @@ C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\refint\Consolemethod
 C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.pdb
 C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.genruntimeconfig.cache
 C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\ref\Consolemethods.dll
+C:\Users\subhi\source\repos\Consolemethods\obj\Debug\net8.0\Consolemethods.sourcelink.json

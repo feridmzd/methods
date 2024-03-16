@@ -42,13 +42,13 @@
 
 
 
-        //public static int DuzbucaqSahe(int a, int b)
+        //public static int Duzbucaqsahe(int a, int b)
         //{
         //    return a * b;
         //}
-        //public static double Cevreninsahesi(int r)
+        //public static double Cevreninsahesi(int r, int p = 3)
         //{
-        //    return Math.PI * r * r;
+        //    return p * r * r;
 
         //}
         //public static double Uvbucaqcevre(int a, int b, int c, int r)
@@ -60,18 +60,18 @@
         //{
         //    return (a * b + a * c + b * c) * 2;
         //}
-        //static void Main()
+        //static void Main(string[] args)
 
 
         //{
 
-        //    Console.WriteLine(DuzbucaqSahe(2, 5));
+        //    Console.WriteLine(Duzbucaqsahe(2, 5));
         //    Console.WriteLine(Cevreninsahesi(2));
         //    Console.WriteLine(Uvbucaqcevre(4, 6, 7, 3));
         //    Console.WriteLine(Paralipiped(3, 7, 6));
 
         //}
-        //}
+
 
 
 
@@ -120,9 +120,10 @@
         //}
         //static void Main(string[] args)
         //{
-            
+
         //    Console.WriteLine(Sozbirlesme("Ferid Memmedzade"));
         //}
     }
-    }
+
+}
 
